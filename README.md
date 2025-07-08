@@ -34,6 +34,7 @@ This project is a full-stack AI-based Resume Evaluator that simulates how an int
  Clone the Repository
 
 git clone [https://github.com/iamyashtiwari15/CV_align.git]
+
 cd CV_align
 
 ####
