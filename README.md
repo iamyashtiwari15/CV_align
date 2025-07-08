@@ -33,7 +33,7 @@ This project is a full-stack AI-based Resume Evaluator that simulates how an int
 ## ⚙️ Setup Instructions
  Clone the Repository
 
-git clone https://github.com/Amit-iitg/CV_align.git
+git clone [https://github.com/iamyashtiwari15/CV_align.git]
 cd CV_align
 
 ####
